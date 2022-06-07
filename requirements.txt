@@ -90,7 +90,7 @@ tensorboard==2.9.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tokenizers==0.12.1
-torch==1.10.2
+torch==1.8.1
 torchmetrics==0.8.2
 torpy==1.1.6
 tqdm==4.64.0
