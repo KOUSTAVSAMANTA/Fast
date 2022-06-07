@@ -19,7 +19,7 @@ colorama==0.4.4
 contextlib2==21.6.0
 contextvars==2.4
 cryptography==3.4.7
-dataclasses==0.8
+dataclasses==0.6
 elasticsearch==7.13.0
 fake-useragent==0.1.11
 fastapi==0.78.0
